@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'iOS7 NSURLSession exapmle' });
+  res.render('index', { title: 'iOS7 NSURLSession example' });
 };
